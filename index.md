@@ -17,7 +17,7 @@ layout: page
     </li>
     <li>
         <div class="status archived">
-            <img src="assets/images/sparkasse.jpg" alt=""/>
+            <img src="assets/images/unterrichtsausfall.jpg" alt=""/>
         </div>
         <h3>Projekt 1</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo esse, nihil inventore! Nisi rem quod
@@ -26,7 +26,7 @@ layout: page
     </li>
     <li>
         <div class="status archived">
-            <img src="assets/images/unterrichtsausfall.jpg" alt=""/>
+            <img src="assets/images/sparkasse.jpg" alt=""/>
         </div>
         <h3>Projekt 1</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo esse, nihil inventore! Nisi rem quod
