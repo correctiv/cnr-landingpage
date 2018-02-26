@@ -16,6 +16,6 @@ In Zukunft soll die Plattform allen Redaktionen offen stehen, damit sie solche R
 
 ## Das Team
 
-CORRECTIV ist das erste gemeinnützige Recherchezentrum in Deutschland. Wir arbeiten unabhängig und nicht-gewinnorientiert. Die Redaktion finanziert sich ausschließlich über Spenden und Mitgliedsbeiträge von Unterstützern. Wenn Sie mehr über uns erfahren und uns unterstützen möchten: [CORRECTIV unterstützen] (http://correctiv.org/unterstuetzen)
+CORRECTIV ist das erste gemeinnützige Recherchezentrum in Deutschland. Wir arbeiten unabhängig und nicht-gewinnorientiert. Die Redaktion finanziert sich ausschließlich über Spenden und Mitgliedsbeiträge von Unterstützern. Wenn Sie mehr über uns erfahren und uns unterstützen möchten: [CORRECTIV unterstützen](http://correctiv.org/unterstuetzen)
 
 A project coded by [Knut](https://github.com/k-nut), with contributions from [Simon](https://github.com/simonwoerpel) & [Simon](https://github.com/sjockers) and the project management of [Anne-Lise](https://github.com/annelisebouyer). Design by [Benjamin](https://github.com/benjamin-schubert).
