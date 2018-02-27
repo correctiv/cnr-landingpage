@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="/main.css">
 <body>
-<div class="content">
+<div class="content {{ page.class }}">
     <header>
         <nav>
             <div class="wrapper">
@@ -21,13 +21,15 @@
     </header>
 
     <main>
-        {{ content | save}}
+        <div class="container">
+            {{ content | save}}
+        </div>
     </main>
 
     <footer>
         <div class="wrapper">
             <div class="branding">
-                CrowdNewsroom. Ein projekt von <a href="https://correctiv.org">CORRECTIV</a>
+                CrowdNewsroom. Ein Projekt von <a href="https://correctiv.org">CORRECTIV</a>
             </div>
             <ul>
                 <li><a href="/impressum">Impressum</a></li>

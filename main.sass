@@ -1,6 +1,6 @@
 ---
 ---
-$content-width: 800px
+$content-width: 930px
 @font-face
   font-family: 'Roboto Thin'
   font-style: normal
@@ -59,6 +59,10 @@ ul
 
       ul
         display: inline-grid
+        padding: 5px 10px
+        border-radius: 3px
+        border: 1px solid white
+
         a, a:visited
           color: white
           text-decoration: none
@@ -67,19 +71,21 @@ ul
       min-height: 500px
       text-align: center
       color: white
-      margin-top: 50px
+      margin-top: 75px
       max-width: $content-width
       font-size: 20px
       line-height: 28px
-      font-family: "Roboto", sans-serif
+      font-family: "Roboto Thin", sans-serif
 
       h1
         font-size: 48px
-        font-family: "Rovoto", sans-serif
+        font-family: "Roboto", sans-serif
         font-weight: 700
 
       p
         margin-bottom: 200px
+        max-width: 50ch
+
 
     .headerlogo
       background: url('./assets/images/logo.svg')
@@ -90,16 +96,18 @@ ul
 
 
   main
-    margin-top: -200px
+    margin-top: -100px
     background-color: white
     width: $content-width
     max-width: $content-width
     padding: 40px
     h2
-      text-align: center
       font-size: 36px
       font-weight: normal
       margin: 0
+      &.centered
+        text-align: center
+
 
     p
       font-size: 14px
@@ -172,3 +180,17 @@ ul
       max-width: 300px
       margin: 1em auto 0
       justify-content: space-around
+
+.editorial
+  main
+    .container
+      margin: 0 auto
+      max-width: 60ch
+
+      h2
+        margin-top: 1.6em
+        margin-bottom: .5em
+
+      a, a:visited
+        color: gray
+        text-decoration: none

@@ -2,9 +2,8 @@
 layout: page
 title: Über
 permalink: /ueber
+class: editorial
 ---
-# Über uns
-
 ## Die Idee
 Wir möchten mit CrowdNewsroom wieder mehr Menschen für Journalismus begeistern. Deshalb ermöglichen wir journalistische Recherchen, an denen sich möglichst viele Menschen beteiligen können. Unsere Gesellschaft wird stärker, wenn sich jeder Informationen beschaffen kann, um das Handeln von Behörden und Firmen zu überprüfen. Wir glauben daran, dass jeder als Journalist arbeiten kann, solange er oder sie die Methoden dahinter vermittelt bekommt. Dieses Handwerk vermitteln wir in CrowdNewsroom, durch Bildungsangebote und gemeinsame Recherchen.
 
@@ -18,4 +17,4 @@ In Zukunft soll die Plattform allen Redaktionen offen stehen, damit sie solche R
 
 CORRECTIV ist das erste gemeinnützige Recherchezentrum in Deutschland. Wir arbeiten unabhängig und nicht-gewinnorientiert. Die Redaktion finanziert sich ausschließlich über Spenden und Mitgliedsbeiträge von Unterstützern. Wenn Sie mehr über uns erfahren und uns unterstützen möchten: [correctiv.org unterstützen](http://correctiv.org/unterstuetzen)
 
-[Anne-Lise Bouyer](https://github.com/annelisebouyer) leitet das Projekt CrowdNewsroom. Entwickelt wird die Plattform von [Knut Huehne](https://github.com/k-nut). Dabei wird er von [Simon Jockers](https://github.com/sjockers) und [Simon Wörpel] (https://github.com/simonwoerpel) unterstützt. Das grafische Design wird von [Benjamin Schubert](https://github.com/benjamin-schubert) unterstützt.
+[Anne-Lise Bouyer](https://github.com/annelisebouyer) leitet das Projekt CrowdNewsroom. Entwickelt wird die Plattform von [Knut Hühne](https://github.com/k-nut). Dabei wird er von [Simon Jockers](https://github.com/sjockers) und [Simon Wörpel](https://github.com/simonwoerpel) unterstützt. Das grafische Design wird von [Benjamin Schubert](https://github.com/benjamin-schubert) unterstützt.
