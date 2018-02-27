@@ -20,7 +20,7 @@ layout: page
                 <img src="assets/images/unterrichtsausfall.jpg" alt=""/>
             </div>
             <h3>Unterrichtsausfall in Dortmund</h3>
-            <p>Im März 2017 erfassten wir den Unterrichtsausfall an Dortmund Schulen. Über 500 Eltern, Lehrer und Schüler trugen in CrowdNewsroom ein, welche Stunden an ihrer Schule ausfielen. Das Ergebnis: Das Problem des Schulausfalls ist größer, als es die Behörden in dem größten Bundesland Deutschlands in ihren Statistiken ausweisen.</p>
+            <p>Im März 2017 erfassten wir den Unterrichtsausfall an Dortmunds Schulen. Über 500 Eltern, Lehrer und Schüler trugen in CrowdNewsroom ein, welche Stunden an ihrer Schule ausfielen. Das Ergebnis: Das Problem des Schulausfalls ist größer, als es die Behörden in dem größten Bundesland Deutschlands in ihren Statistiken ausweisen.</p>
         </a>
     </li>
     <li>
