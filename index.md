@@ -6,7 +6,7 @@ layout: page
 </p>
 <ul class="projects">
     <li>
-        <a href="https://correctiv.org/blog/2018/02/17/correctiv-startet-weitere-crowdnewsroom-recherche-wem-gehort-hamburg">
+        <a href="https://wem-gehoert-hamburg.de/">
             <div class="status published">
                 <img src="assets/images/wghh.jpg" alt=""/>
             </div>
