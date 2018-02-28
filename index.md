@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Start
 ---
 <h2 class="centered">Recherchen </h2>
 <p class='description'>Im November 2015 haben wir CrowdNewsroom ins Leben gerufen. Seitdem haben wir über die Plattform drei aufwändige Recherchen zusammen mit vielen Bürgerinnen und Bürgern umgesetzt. 
