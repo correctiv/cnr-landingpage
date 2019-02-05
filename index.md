@@ -9,10 +9,19 @@ title: Start
      <li>
         <a href="https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/">
             <div class="status published">
-                <img src="assets/images/wghh.jpg" alt=""/>
+                <img src="assets/images/wgber.jpg" alt=""/>
             </div>
             <h3>Wem gehört Berlin?</h3>
             <p>Ab Oktober 2018 recherchieren wir mit den Mietern Berlins. Gemeinsam wollen wir mehr über die Eigentümer von Mietwohnungen erfahren. Wir helfen Bürgern bei Auskunftsanfragen. Wir wollen aufdecken, wer von der Intransparenz im Immobilienmarkt profitiert.</p>
+        </a>
+    </li>
+          <li>
+        <a href="https://interaktiv.rp-online.de/ig/wem-gehoert-duesseldorf/">
+            <div class="status published">
+                <img src="assets/images/wgd.jpg" alt=""/>
+            </div>
+            <h3>Wem gehört Düsseldorf?</h3>
+            <p>Ab Oktober 2018 recherchieren wir mit den Mietern Düsseldorfs. Gemeinsam wollen wir mehr über die Eigentümer von Mietwohnungen erfahren. Wir helfen Bürgern bei Auskunftsanfragen. Wir wollen aufdecken, wer von der Intransparenz im Immobilienmarkt profitiert.</p>
         </a>
     </li>
     <li>
@@ -22,7 +31,6 @@ title: Start
             </div>
             <h3>Wem gehört Hamburg?</h3>
             <p>Ab April 2018 recherchieren wir mit den Mietern Hamburgs. Gemeinsam wollen wir mehr über die Eigentümer von Mietwohnungen erfahren. Wir helfen Bürgern bei Auskunftsanfragen. Wir wollen aufdecken, wer von der Intransparenz im Immobilienmarkt profitiert.</p>
-              <a href="https://correctiv.org/top-stories/2018/11/23/wem-gehoert-hamburg/">Zur Recherche</a> 
         </a>
     </li>
     <li>
