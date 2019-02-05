@@ -3,7 +3,7 @@ layout: page
 title: Start
 ---
 <h2 class="centered">Recherchen </h2>
-<p class='description'>Im November 2015 haben wir CrowdNewsroom ins Leben gerufen. Seitdem haben wir über die Plattform drei aufwändige Recherchen zusammen mit vielen Bürgerinnen und Bürgern umgesetzt. 
+<p class='description'>Im November 2015 haben wir CrowdNewsroom ins Leben gerufen. Seitdem haben wir über die Plattform fünf aufwändige Recherchen zusammen mit vielen Bürgerinnen und Bürgern umgesetzt.
 </p>
 <ul class="projects">
      <li>
@@ -12,7 +12,7 @@ title: Start
                 <img src="assets/images/wgber.jpg" alt=""/>
             </div>
             <h3>Wem gehört Berlin?</h3>
-            <p>Ab Oktober 2018 recherchieren wir mit den Mietern Berlins. Gemeinsam wollen wir mehr über die Eigentümer von Mietwohnungen erfahren. Wir helfen Bürgern bei Auskunftsanfragen. Wir wollen aufdecken, wer von der Intransparenz im Immobilienmarkt profitiert.</p>
+            <p>Seit Oktober 2018 recherchieren wir mit den Mietern Berlins. Zusammen mit dem Tagesspiegel wollen wir die Ursachen für den Mieten-Wahnsinn in der Hauptstadt ergründen. Denn wem die Wohnung gehört, der entscheidet über die Miete.</p>
         </a>
     </li>
           <li>
@@ -21,7 +21,7 @@ title: Start
                 <img src="assets/images/wgd.jpg" alt=""/>
             </div>
             <h3>Wem gehört Düsseldorf?</h3>
-            <p>Ab Oktober 2018 recherchieren wir mit den Mietern Düsseldorfs. Gemeinsam wollen wir mehr über die Eigentümer von Mietwohnungen erfahren. Wir helfen Bürgern bei Auskunftsanfragen. Wir wollen aufdecken, wer von der Intransparenz im Immobilienmarkt profitiert.</p>
+            <p>Seit Oktober 2018 recherchieren wir mit den Mietern Düsseldorfs. Kooperationspartner vor Ort ist die Rheinische Post. Gemeinsam wollen wir mehr über die Eigentümer von Mietwohnungen erfahren. Wir wollen aufdecken, wer von der Intransparenz im Immobilienmarkt profitiert.</p>
         </a>
     </li>
     <li>
@@ -30,7 +30,7 @@ title: Start
                 <img src="assets/images/wghh.jpg" alt=""/>
             </div>
             <h3>Wem gehört Hamburg?</h3>
-            <p>Ab April 2018 recherchieren wir mit den Mietern Hamburgs. Gemeinsam wollen wir mehr über die Eigentümer von Mietwohnungen erfahren. Wir helfen Bürgern bei Auskunftsanfragen. Wir wollen aufdecken, wer von der Intransparenz im Immobilienmarkt profitiert.</p>
+            <p>Zusammen mit dem Hamburger Abendblatt haben wir unsere "Wem gehört?"-Reihe im April 2018 gestartet. Wir wollten von Hamburger Mietern wissen, wem ihre Wohnung gehört, um den Immobilienmarkt transparenter zu machen. Die Ergebnisse haben wir Ende November 2018 veröffentlicht.</p>
         </a>
     </li>
     <li>
