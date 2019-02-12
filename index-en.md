@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Start
+title: Crowdnewsroom
 permalink: /en/
 lang: en
 ---
@@ -19,7 +19,7 @@ lang: en
     </li>
           <li>
         <a href="https://interaktiv.rp-online.de/ig/wem-gehoert-duesseldorf/">
-            <div class="status published">
+            <div class="status published">Published
                 <img src="/assets/images/wgd.jpg" alt=""/>
             </div>
             <h3>Who owns Düsseldorf?</h3>
@@ -28,7 +28,7 @@ lang: en
     </li>
     <li>
         <a href="https://wem-gehoert-hamburg.de/">
-            <div class="status archived">
+            <div class="status archived">Closed
                 <img src="/assets/images/wghh.jpg" alt=""/>
             </div>
             <h3>Who owns Hamburg?</h3>
