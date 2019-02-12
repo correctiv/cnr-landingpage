@@ -5,15 +5,16 @@ permalink: /en/
 lang: en
 ---
 <h2 class="centered">Investigations</h2>
-<p class='description'>lorem ipsum in english</p>
+<p class='description'>In November 2015, we launched CrowdNewsroom. Since then, we have carried out five elaborate investigations together with many citizens via the platform.
+</p>
 <ul class="projects">
      <li>
         <a href="https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/">
             <div class="status published">
                 <img src="/assets/images/wgber.jpg" alt=""/>
             </div>
-            <h3>Wem gehört Berlin?</h3>
-            <p>Seit Oktober 2018 recherchieren wir mit den Mietern Berlins. Zusammen mit dem Tagesspiegel wollen wir die Ursachen für den Mieten-Wahnsinn in der Hauptstadt ergründen. Denn wem die Wohnung gehört, der entscheidet über die Miete.</p>
+            <h3>Who owns Berlin?</h3>
+            <p>We have been doing joint investigations with tenants residing in Berlin. Together with the Tagesspiegel, we aim to ascertain the causes of the rent madness in Germany's capital. For the fact of the matter is that he who owns the apartment decides the rent.</p>
         </a>
     </li>
           <li>
@@ -21,8 +22,8 @@ lang: en
             <div class="status published">
                 <img src="/assets/images/wgd.jpg" alt=""/>
             </div>
-            <h3>Wem gehört Düsseldorf?</h3>
-            <p>Seit Oktober 2018 recherchieren wir mit den Mietern Düsseldorfs. Kooperationspartner vor Ort ist die Rheinische Post. Gemeinsam wollen wir mehr über die Eigentümer von Mietwohnungen erfahren. Wir wollen aufdecken, wer von der Intransparenz im Immobilienmarkt profitiert.</p>
+            <h3>Who owns Düsseldorf?</h3>
+            <p>We have been doing joint investigations with tenants residing in Dusseldorf. The local cooperation partner is the Rheinische Post newspaper. Together, we want to find out more about the owners of rental apartments. Our goal is to uncover who benefits from the lack of transparency in the real estate market.</p>
         </a>
     </li>
     <li>
@@ -30,8 +31,8 @@ lang: en
             <div class="status archived">
                 <img src="/assets/images/wghh.jpg" alt=""/>
             </div>
-            <h3>Wem gehört Hamburg?</h3>
-            <p>Zusammen mit dem Hamburger Abendblatt haben wir unsere "Wem gehört?"-Reihe im April 2018 gestartet. Wir wollten von Hamburger Mietern wissen, wem ihre Wohnung gehört, um den Immobilienmarkt transparenter zu machen. Die Ergebnisse haben wir Ende November 2018 veröffentlicht.</p>
+            <h3>Who owns Hamburg?</h3>
+            <p>In cooperation with the Hamburger Abendblatt, we launched our "Who owns" series in April of 2018. We wanted to find out from tenants residing in Hamburg who the owners of their apartments are, in order to make the real estate market more transparent. We published the results in late November, 2018.</p>
         </a>
     </li>
     <li>
@@ -39,8 +40,8 @@ lang: en
             <div class="status archived">
                 <img src="/assets/images/unterrichtsausfall.jpg" alt=""/>
             </div>
-            <h3>Unterrichtsausfall in Dortmund</h3>
-            <p>Im März 2017 erfassten wir den Unterrichtsausfall an Dortmunds Schulen. Über 500 Eltern, Lehrer und Schüler trugen in CrowdNewsroom ein, welche Stunden an ihrer Schule ausfielen. Das Ergebnis: Das Problem des Schulausfalls ist größer, als es die Behörden in dem größten Bundesland Deutschlands in ihren Statistiken ausweisen.</p>
+            <h3>Cancellation of classes in Dortmund</h3>
+            <p>In March 2017, we covered the cancellation of classes across schools in Dortmund. Over 500 parents, teachers and students used CrowdNewsroom to track canceled classes at their schools. The result: The issue of class cancellation at German schools is greater than the statistics published by the authorities in Germany's largest federal state.</p>
 </a>
     </li>
     <li>
@@ -49,7 +50,7 @@ lang: en
                 <img src="/assets/images/sparkasse.jpg" alt=""/>
             </div>
             <h3>Sparkassen-Check</h3>
-            <p>Mehr als 800 Bürger recherchierten bis Ende 2016 zu den Sparkassen in ihrer Region. Sie halfen bei der Analyse von Jahresabschlüssen, fotografierten Gebührenlisten und fragten Spendenlisten bei ihrer Sparkasse an. So sammelten wir gemeinsam Informationen über faule Kredite, Vorstandsgehälter und überhöhte Dispozinsen.</p>
+            <p>Over 800 citizens investigated the savings banks in their region until the end of 2016. They assisted with analyzing annual accounts, photographed fee schedules and inquired about donations lists at their savings bank. This allowed us to compile information on bad loans, executive salaries and excessive overdraft fees.</p>
         </a>
     </li>
 </ul>
