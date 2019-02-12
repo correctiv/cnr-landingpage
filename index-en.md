@@ -19,7 +19,7 @@ lang: en
     </li>
           <li>
         <a href="https://interaktiv.rp-online.de/ig/wem-gehoert-duesseldorf/">
-            <div class="status published">Published
+            <div class="status published">
                 <img src="/assets/images/wgd.jpg" alt=""/>
             </div>
             <h3>Who owns Düsseldorf?</h3>
@@ -28,7 +28,7 @@ lang: en
     </li>
     <li>
         <a href="https://wem-gehoert-hamburg.de/">
-            <div class="status archived">Closed
+            <div class="status archived">
                 <img src="/assets/images/wghh.jpg" alt=""/>
             </div>
             <h3>Who owns Hamburg?</h3>
