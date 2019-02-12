@@ -17,7 +17,7 @@ title: Start
     </li>
           <li>
         <a href="https://interaktiv.rp-online.de/ig/wem-gehoert-duesseldorf/">
-            <div class="status published">Aktiv
+            <div class="status published">
                 <img src="/assets/images/wgd.jpg" alt=""/>
             </div>
             <h3>Wem gehört Düsseldorf?</h3>
@@ -26,7 +26,7 @@ title: Start
     </li>
     <li>
         <a href="https://wem-gehoert-hamburg.de/">
-            <div class="status archived">Abgeschlossen
+            <div class="status archived">
                 <img src="/assets/images/wghh.jpg" alt=""/>
             </div>
             <h3>Wem gehört Hamburg?</h3>
