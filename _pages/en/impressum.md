@@ -7,18 +7,15 @@ permalink: /en/impress
 
 
 CORRECTIV – Recherchen für die Gesellschaft
-
-ist eine Marke der
-
+a trademark of
 CORRECTIV – Recherchen für die Gesellschaft gemeinnützige GmbH
 Huyssenallee 11
 45128 Essen.
 
-Handelsregister Essen
+Trade registry Essen
 HRB 25135
 
-Geschäftsführer: David Schraven
-
-Verantwortlicher i.S.v. § 55 Abs. 2 RStV: David Schraven
+Managing Directors: David Schraven, Simon Kretschmer
+Responsible according to i.S.v. § 55 Abs. 2 RStV: David Schraven
 
 info@correctiv.org
