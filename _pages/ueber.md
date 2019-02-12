@@ -16,4 +16,4 @@ In Zukunft soll die Plattform allen Redaktionen offen stehen, damit sie Recherch
 ## Das Team
 CORRECTIV ist das erste gemeinnützige Recherchezentrum in Deutschland. Wir arbeiten unabhängig und nicht-gewinnorientiert. Die Redaktion finanziert sich ausschließlich über Spenden und Mitgliedsbeiträge von Unterstützern. Wenn Sie mehr über uns erfahren und uns unterstützen möchten: [correctiv.org unterstützen](http://correctiv.org/unterstuetzen)
 
-[Anne-Lise Bouyer](https://github.com/annelisebouyer) leitet das Projekt CrowdNewsroom. Entwickelt wird die Plattform von [Knut Hühne](https://github.com/k-nut). Dabei wird er von [Simon Jockers](https://github.com/sjockers) und [Simon Wörpel](https://twitter.com/simonwoerpel) unterstützt. Das grafische Design verantwortet [Benjamin Schubert](https://github.com/benjamin-schubert).
+[Anne-Lise Bouyer](https://github.com/annelisebouyer) leitet das Projekt CrowdNewsroom.
