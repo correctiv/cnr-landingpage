@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Start
+permalink: /en/
+lang: en
 ---
-<h2 class="centered">Recherchen </h2>
-<p class='description'>Im November 2015 haben wir CrowdNewsroom ins Leben gerufen. Seitdem haben wir über die Plattform fünf aufwändige Recherchen zusammen mit vielen Bürgerinnen und Bürgern umgesetzt.
-</p>
+<h2 class="centered">Investigations</h2>
+<p class='description'>lorem ipsum in english</p>
 <ul class="projects">
      <li>
         <a href="https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/">

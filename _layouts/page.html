@@ -9,15 +9,36 @@
       <header>
         <nav>
           <div class="wrapper">
-            <a href="/" class="headerlogo"></a>
-            <ul>
-              <li><a href="/ueber">Über</a></li>
-            </ul>
+            {% if page.lang == "de" or lang == "de" %}
+              <a href="/" class="headerlogo"></a>
+            {% else %}
+              <a href="/en" class="headerlogo"></a>
+            {% endif %}
+            <div class="menu-wrapper">
+              <ul>
+                {% if page.lang == "de" or lang == "de" %}
+                <li><a href="/ueber">Über</a></li>
+                {% else %}
+                <li><a href="/en/about">About</a></li>
+                {% endif %}
+              </ul>
+              <ul>
+                {% if page.lang == "de" or lang == "de" %}
+                <li><a href="/en">EN</a></li>
+                {% else %}
+                <li><a href="/">DE</a></li>
+                {% endif %}
+              </ul>
+            </div>
           </div>
         </nav>
         <div class="teaser">
           <h1>Crowd&shy;Newsroom</h1>
+          {% if page.lang == "de" or lang == "de" %}
           <p>CrowdNewsroom ist eine Plattform für Redaktionen, die gemeinsam mit ihren Lesern recherchieren wollen. Hinter der Entwicklung steht das gemeinnützige Recherchezentrum correctiv.org, das den Journalismus für Bürgerbeteiligung öffnen und dadurch stärken will.</p>
+          {% else %}
+          <p>EN: CrowdNewsroom ist eine Plattform für Redaktionen, die gemeinsam mit ihren Lesern recherchieren wollen. Hinter der Entwicklung steht das gemeinnützige Recherchezentrum correctiv.org, das den Journalismus für Bürgerbeteiligung öffnen und dadurch stärken will.</p>
+          {% endif %}
         </div>
       </header>
 
@@ -30,10 +51,18 @@
       <footer>
         <div class="wrapper">
           <div class="branding">
-            CrowdNewsroom. Ein Projekt von <a href="https://correctiv.org">CORRECTIV</a>
+            {% if page.lang == "de" or lang == "de" %}
+              CrowdNewsroom. Ein Projekt von <a href="https://correctiv.org">CORRECTIV</a>
+            {% else %}
+              CrowdNewsroom. A project by <a href="https://correctiv.org/en">CORRECTIV</a>
+            {% endif %}
           </div>
           <ul>
-            <li><a href="/impressum">Impressum</a></li>
+            {% if page.lang == "de" or lang == "de" %}
+              <li><a href="/impressum">Impressum</a></li>
+            {% else %}
+              <li><a href="/en/impress">Impress</a></li>
+            {% endif %}
             <li><a href="https://github.com/correctiv/cnr-landingpage" target="_blank">Github</a></li>
           </ul>
         </div>
