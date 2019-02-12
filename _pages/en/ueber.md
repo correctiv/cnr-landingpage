@@ -17,7 +17,5 @@ In the future, the platform should be open to all editorships, so that they can 
 ## The team
 CORRECTIV is the first non-profit research center in the Germany. Our work is independent and non-profit. The editorship is exclusively financed by donations and membership fees from supporters. If you want to [find out more about us and support us](https://correctiv.org/unterstuetzen/).
 
+
 [Anne-Lise Bouyer](https://github.com/annelisebouyer) is the head of the CrowdNewsroom project. 
-
-
-CrowdNewsroom. A [CORRECTIV](https://correctiv.org/) project.
