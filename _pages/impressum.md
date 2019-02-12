@@ -17,7 +17,7 @@ Huyssenallee 11
 Handelsregister Essen
 HRB 25135
 
-Geschäftsführer: David Schraven
+Geschäftsführer: David Schraven, Simon Kretschmer
 
 Verantwortlicher i.S.v. § 55 Abs. 2 RStV: David Schraven
 
