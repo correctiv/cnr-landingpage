@@ -1,41 +1,23 @@
 ---
 layout: page
-title: Über
+title: About
 permalink: /en/about
 class: editorial
 ---
 
-## About in english
-Wir möchten mit CrowdNewsroom wieder mehr Menschen für Journalismus begeistern.
-Deshalb ermöglichen wir journalistische Recherchen, an denen sich möglichst
-viele Menschen beteiligen können. Unsere Gesellschaft wird stärker, wenn sich
-jeder Informationen beschaffen kann, um das Handeln von Behörden und Firmen zu
-überprüfen. Wir glauben daran, dass jeder als Journalist arbeiten kann, solange
-er oder sie die Methoden dahinter lernt.
+## The idea
+With CrowdNewsroom, want to inspire more people to get interested in journalism again. That's why we facilitate journalistic research that enables as many people to participate as possible. Our society grows stronger when everyone can gather information to check the actions of authorities and companies. We believe that anyone can work as a journalist, provided he or she learns the methods behind it.
 
-## Die Plattform
-Wir arbeiten seit 2015 am CrowdNewsroom: eine Plattform, auf der Journalisten
-und Bürger gemeinsam recherchieren können. Das verstehen wir als eine Art
-virtuelle Redaktion, in der wir gemeinsam große Recherchen angehen. Für jede
-Recherche bieten wir derzeit individuelle Werkzeuge an, die von Journalisten
-und Bürgern genutzt werden können.
+## The platform
+We have been working on the CrowdNewsroom since 2015: a platform on which journalists and citizens can carry out investigations and research together. We view this as a type of virtual editorship, in which we tackle large-scale investigations hand-in-hand. Currently we offer individual tools for each investigation, which can be used by journalists and citizens.
 
-## Die Zukunft
-In Zukunft soll die Plattform allen Redaktionen offen stehen, damit sie
-Recherchen gemeinsam mit ihren Lesern umsetzen können. Langfristig möchten wir
-CrowdNewsroom mit der Software dahinter als OpenSource öffnen.  Andere Medien
-sollen selbstständig Recherchen beginnen können.
+## The future
+In the future, the platform should be open to all editorships, so that they can carry out research together with their readers. In the long term, we want to make CrowdNewsroom and the software it is based on available as OpenSource. The objective is to enable other media to initiate own investigations independently.
 
-## Das Team
-CORRECTIV ist das erste gemeinnützige Recherchezentrum in Deutschland. Wir
-arbeiten unabhängig und nicht-gewinnorientiert. Die Redaktion finanziert sich
-ausschließlich über Spenden und Mitgliedsbeiträge von Unterstützern. Wenn Sie
-mehr über uns erfahren und uns unterstützen möchten: [correctiv.org
-unterstützen](http://correctiv.org/unterstuetzen)
+## The team
+CORRECTIV is the first non-profit research center in the Germany. Our work is independent and non-profit. The editorship is exclusively financed by donations and membership fees from supporters. If you want to [find out more about us and support us](https://correctiv.org/unterstuetzen/).
 
-[Anne-Lise Bouyer](https://github.com/annelisebouyer) leitet das Projekt
-CrowdNewsroom. Entwickelt wird die Plattform von [Knut
-Hühne](https://github.com/k-nut). Dabei wird er von [Simon
-Jockers](https://github.com/sjockers) und [Simon
-Wörpel](https://twitter.com/simonwoerpel) unterstützt. Das grafische Design
-verantwortet [Benjamin Schubert](https://github.com/benjamin-schubert).
+[Anne-Lise Bouyer](https://github.com/annelisebouyer) is the head of the CrowdNewsroom project. 
+
+
+CrowdNewsroom. A [CORRECTIV](https://correctiv.org/) project.
