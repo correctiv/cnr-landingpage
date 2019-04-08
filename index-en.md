@@ -17,14 +17,15 @@ lang: en
             <p>The local newspaper Mindener Tageblatt launched our common project „Who owns Minden?“ in march 2019. Minden is a mid-sized town in Westfalia. There is a growing debate about the affordable rent market or anonymous investors. Minden is the fifths project we launched to find out more about the intransparent housing market together with the citizens.</p>
         </a>
     </li>
+  
     <li>
         <a href="https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/">
             <div class="status published">
                 <img src="/assets/images/wgber.jpg" alt=""/>
-                   </div>
+            </div>
             <h3>Who owns Berlin?</h3>
             <p>We have been doing joint investigations with tenants residing in Berlin. Together with the Tagesspiegel, we aim to ascertain the causes of the rent madness in Germany's capital. For the fact of the matter is that he who owns the apartment decides the rent.</p>
-                  </a>
+        </a>
     </li>
     
        <li>
@@ -34,8 +35,8 @@ lang: en
                    </div>
             <h3>Who owns Düsseldorf?</h3>
             <p>We have been doing joint investigations with tenants residing in Dusseldorf. The local cooperation partner is the Rheinische Post newspaper. Together, we want to find out more about the owners of rental apartments. Our goal is to uncover who benefits from the lack of transparency in the real estate market.</p>
-                  </a>
-    </li>
+        </a>
+      </li>
   
     <li>
         <a href="https://wem-gehoert-hamburg.de/">
