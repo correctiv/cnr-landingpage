@@ -9,6 +9,24 @@ lang: en
 </p>
 <ul class="projects">
  <li>
+   <a href="https://www.wem-gehoert-minden.de/">
+            <div class="status published">
+                <img src="/assets/images/wgmin.jpg" alt=""/>
+            </div>
+            <h3>Who owns Minden</h3>
+            <p>The local newspaper Mindener Tageblatt launched our common project „Who owns Minden?“ in march 2019. Minden is a mid-sized town in Westfalia. There is a growing debate about the affordable rent market or anonymous investors. Minden is the fifths project we launched to find out more about the intransparent housing market together with the citizens.</p>
+        </a>
+    </li>
+          <li>
+        <a href="https://www.swp.de/suedwesten/staedte/heidenheim/wem-gehoert-heidenheim_-jetzt-mitmachen-30018700.html">
+            <div class="status published">
+                <img src="/assets/images/wghei.jpeg" alt=""/>
+            </div>
+            <h3>Who owns Heidenheim</h3>
+            <p>Finding apartments to rent is increasingly problematic, not only in the big cities, but also in smaller towns. For investors, the real estate market in smaller cities is attractive as they can make high revenues. In the city of Heidenheim, located in southern Germany, we started the project „Who owns Heidenheim?“ together with the Heidenheimer Zeitung in february 2019.</p>
+        </a>
+    </li>
+ <li>
         <a href="https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/">
             <div class="status published">
                 <img src="/assets/images/wgber.jpg" alt=""/>
