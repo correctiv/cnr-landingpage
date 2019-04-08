@@ -26,6 +26,27 @@ lang: en
             <p>Finding apartments to rent is increasingly problematic, not only in the big cities, but also in smaller towns. For investors, the real estate market in smaller cities is attractive as they can make high revenues. In the city of Heidenheim, located in southern Germany, we started the project „Who owns Heidenheim?“ together with the Heidenheimer Zeitung in february 2019.</p>
         </a>
     </li>
+  
+   <li>
+        <a href="https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/">
+            <div class="status published">
+                <img src="/assets/images/wgber.jpg" alt=""/>
+                   </div>
+            <h3>Who owns Berlin?</h3>
+            <p>We have been doing joint investigations with tenants residing in Berlin. Together with the Tagesspiegel, we aim to ascertain the causes of the rent madness in Germany's capital. For the fact of the matter is that he who owns the apartment decides the rent.</p>
+                  </a>
+    </li>
+    
+       <li>
+        <a href="https://interaktiv.rp-online.de/ig/wem-gehoert-duesseldorf/">
+            <div class="status published">
+                <img src="/assets/images/wgd.jpg" alt=""/>
+                   </div>
+            <h3>Who owns Düsseldorf?</h3>
+            <p>We have been doing joint investigations with tenants residing in Dusseldorf. The local cooperation partner is the Rheinische Post newspaper. Together, we want to find out more about the owners of rental apartments. Our goal is to uncover who benefits from the lack of transparency in the real estate market.</p>
+                  </a>
+    </li>
+  
     <li>
         <a href="https://wem-gehoert-hamburg.de/">
             <div class="status archived">
