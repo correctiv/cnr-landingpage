@@ -6,6 +6,24 @@ title: Start
 <p class='description'>Im November 2015 haben wir CrowdNewsroom ins Leben gerufen. Seitdem haben wir über die Plattform fünf aufwändige Recherchen zusammen mit vielen Bürgerinnen und Bürgern umgesetzt.
 </p>
 <ul class="projects">
+               <li>
+        <a href="https://www.wem-gehoert-minden.de/">
+            <div class="status open">
+                <img src="/assets/images/wgmin.jpg" alt=""/>
+            </div>
+            <h3>Wem gehört Minden</h3>
+            <p>Das Mindener Tageblatt hat im März 2019 die gemeinsame Recherche „Wem gehört Minden“ gestartet. Auch in der eher kleinen Stadt in Westfalen wächst die Debatte um bezahlbaren Wohnraum und anonyme Käufer. Minden ist damit das fünfte gestartete Projekt der Serie.</p>
+        </a>
+    </li>
+          <li>
+        <a href="https://www.swp.de/suedwesten/staedte/heidenheim/wem-gehoert-heidenheim_-jetzt-mitmachen-30018700.html">
+            <div class="status open">
+                <img src="/assets/images/wghei.jpg" alt=""/>
+            </div>
+            <h3>Wem gehört Heidenheim</h3>
+            <p>Der Druck des Wohnungsmarktes auf die Mieter ist nicht nur in den Metropole spürbar. Investoren kaufen mittlerweile auch in kleineren Städten Eigentum, um hohe Renditen zu erzielen. Im Februar 2019 haben wir gemeinsam mit der Heidenheimer Zeitung „Wem gehört Heidenheim“ gestartet, um mit den Bürgern gemeinsam mehr herauszufinden.</p>
+        </a>
+    </li>
      <li>
         <a href="https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/">
             <div class="status published">
