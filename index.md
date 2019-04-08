@@ -8,7 +8,7 @@ title: Start
 <ul class="projects">
                <li>
         <a href="https://www.wem-gehoert-minden.de/">
-            <div class="status open">
+            <div class="status published">
                 <img src="/assets/images/wgmin.jpg" alt=""/>
             </div>
             <h3>Wem gehört Minden</h3>
@@ -17,7 +17,7 @@ title: Start
     </li>
           <li>
         <a href="https://www.swp.de/suedwesten/staedte/heidenheim/wem-gehoert-heidenheim_-jetzt-mitmachen-30018700.html">
-            <div class="status open">
+            <div class="status published">
                 <img src="/assets/images/wghei.jpeg" alt=""/>
             </div>
             <h3>Wem gehört Heidenheim</h3>
