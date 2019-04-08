@@ -18,7 +18,7 @@ title: Start
           <li>
         <a href="https://www.swp.de/suedwesten/staedte/heidenheim/wem-gehoert-heidenheim_-jetzt-mitmachen-30018700.html">
             <div class="status open">
-                <img src="/assets/images/wghei.jpg" alt=""/>
+                <img src="/assets/images/wghei.jpeg" alt=""/>
             </div>
             <h3>Wem gehört Heidenheim</h3>
             <p>Der Druck des Wohnungsmarktes auf die Mieter ist nicht nur in den Metropole spürbar. Investoren kaufen mittlerweile auch in kleineren Städten Eigentum, um hohe Renditen zu erzielen. Im Februar 2019 haben wir gemeinsam mit der Heidenheimer Zeitung „Wem gehört Heidenheim“ gestartet, um mit den Bürgern gemeinsam mehr herauszufinden.</p>
