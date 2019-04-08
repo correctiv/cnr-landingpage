@@ -8,17 +8,7 @@ lang: en
 <p class='description'>In November 2015, we launched CrowdNewsroom. Since then, we have carried out five elaborate investigations together with many citizens via the platform.
 </p>
 <ul class="projects">
-               <li>
-        <a href="https://www.wem-gehoert-minden.de/">
-            <div class="status published">
-                <img src="/assets/images/wgmin.jpg" alt=""/>
-            </div>
-            <h3>Who owns Minden</h3>
-            <p>The local newspaper Mindener Tageblatt launched our common project „Who owns Minden?“ in march 2019. Minden is a mid-sized town in Westfalia. There is a growing debate about the affordable rent market or anonymous investors. Minden is the fifths project we launched to find out more about the intransparent housing market together with the citizens.</p>
-        </a>
-    </li>
-  
-    <li>
+ <li>
         <a href="https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/">
             <div class="status published">
                 <img src="/assets/images/wgber.jpg" alt=""/>
@@ -27,17 +17,15 @@ lang: en
             <p>We have been doing joint investigations with tenants residing in Berlin. Together with the Tagesspiegel, we aim to ascertain the causes of the rent madness in Germany's capital. For the fact of the matter is that he who owns the apartment decides the rent.</p>
         </a>
     </li>
-    
-       <li>
+          <li>
         <a href="https://interaktiv.rp-online.de/ig/wem-gehoert-duesseldorf/">
             <div class="status published">
                 <img src="/assets/images/wgd.jpg" alt=""/>
-                   </div>
+            </div>
             <h3>Who owns Düsseldorf?</h3>
             <p>We have been doing joint investigations with tenants residing in Dusseldorf. The local cooperation partner is the Rheinische Post newspaper. Together, we want to find out more about the owners of rental apartments. Our goal is to uncover who benefits from the lack of transparency in the real estate market.</p>
         </a>
-      </li>
-  
+    </li>
     <li>
         <a href="https://wem-gehoert-hamburg.de/">
             <div class="status archived">
