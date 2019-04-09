@@ -20,7 +20,7 @@ lang: en
           <li>
         <a href="https://www.swp.de/suedwesten/staedte/heidenheim/wem-gehoert-heidenheim_-jetzt-mitmachen-30018700.html">
             <div class="status published">
-                <img src="/assets/images/wghei.jpeg" alt=""/>
+                <img src="/assets/images/wghei.jpeg" alt="© Dennis Straub"/>
             </div>
             <h3>Who owns Heidenheim</h3>
             <p>Finding apartments to rent is increasingly problematic, not only in the big cities, but also in smaller towns. For investors, the real estate market in smaller cities is attractive as they can make high revenues. In the city of Heidenheim, located in southern Germany, we started the project „Who owns Heidenheim?“ together with the Heidenheimer Zeitung in february 2019.</p>
